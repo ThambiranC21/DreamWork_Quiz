@@ -1,0 +1,16 @@
+Marty is 10 years old.,True
+It was Alexs Birthday at the beginning of the movie.,False
+Friday is Field Trip day.,True
+Marty took the Standford Local train.,True
+Blue is the colour of the bow on Alexs gift.,False
+Marty has a treadmill.,True
+Martys Birthday wish was to go home.,False
+London was agreed a no-go zone at the end of the movie.,True
+Skipper Private Rico and Wasabi are the penguins name.,False
+The penguin known for general knowledge is Rico.,False
+Alex thought the lemurs were Guinea pigs.,True
+King Julian gave Alex a crown as a gift.,True
+Alex ate a lemur.,False
+Skipper is in love with a doll.,True
+Alexs replacement for steak is Sushi.,True
+Gloria sleeps underwater.,True
